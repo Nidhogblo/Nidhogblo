@@ -12,6 +12,7 @@
 - Bash
 - Python
 - C#
+- Javasrcipt
 
 **Tools**
 - Gnu/Linux
@@ -19,4 +20,4 @@
 - Git
 - Github
 - TensorFlow
-
+- React
